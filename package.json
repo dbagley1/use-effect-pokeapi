@@ -39,5 +39,6 @@
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
-  }
+  },
+  "homepage": "https://dbagley1.github.io/use-effect-pokeapi/"
 }
